@@ -1,9 +1,5 @@
-ac26c46 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 remove parameter
+fe2da86 (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+ac26c46 Task 2.1 remove parameter
 6920dee Task 1.2
 b1da9ca Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
-ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
-b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
